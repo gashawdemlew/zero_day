@@ -1,2 +1,2 @@
-vagrant ssh
+ssh vagrant
 certain system information
